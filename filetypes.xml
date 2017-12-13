@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping ext="eap" type="Native" />
+      <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

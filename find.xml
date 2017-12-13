@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
+    <recentFileMasks>
+      <mask>*properties</mask>
+      <mask>*jps</mask>
+      <mask>*jp</mask>
+      <mask>*p</mask>
+      <mask>*css</mask>
+      <mask>*cs</mask>
+      <mask>*jav</mask>
+      <mask>*jsp</mask>
+      <mask>*js</mask>
+      <mask>*.javb</mask>
+      <mask>*.jav</mask>
+      <mask>*.jsp</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>java</mask>
+      <mask>*j</mask>
+      <mask>rewrite-xroad6-client-header</mask>
+      <mask>rewrite-xroad6-client-header*</mask>
+      <mask>''</mask>
+      <mask>*.cdf</mask>
+      <mask>*.cd</mask>
+      <mask>*.cfg</mask>
+      <mask>*.cf</mask>
+      <mask>*.c</mask>
+      <mask>*ja</mask>
+      <mask>*java</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

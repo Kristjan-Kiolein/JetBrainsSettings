@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="org.bouncycastle.openpgp.PGPSignatureSubpacketGenerator.setKeyFlags(isCritical,flags)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
