@@ -1,6 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="LIGHTWEIGHT_LICENSE_NOTIFICATION" displayType="NONE" />
-    <notification groupId="Lombok plugin" displayType="NONE" />
-  </component>
-</application>
