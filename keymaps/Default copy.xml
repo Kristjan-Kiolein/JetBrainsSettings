@@ -4,34 +4,23 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="CloseActiveTab" />
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
+  <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute" />
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="alt enter" />
+  <action id="Console.TableResult.DeleteRows">
+    <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="Diff.ShowDiff" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="EditorChooseLookupItem" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="GuiDesigner.Duplicate" />
-  <action id="Images.Thumbnails.EnterAction" />
-  <action id="NextTemplateVariable">
-    <keyboard-shortcut first-keystroke="tab" />
-  </action>
-  <action id="PropertyInspectorActions.EditValue" />
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="SwitchApply">
@@ -49,5 +38,7 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="TableResult.GrowSelection" />
+  <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
