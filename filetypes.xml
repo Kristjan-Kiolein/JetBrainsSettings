@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="eap" type="Native" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
+      <mapping pattern="testad" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
