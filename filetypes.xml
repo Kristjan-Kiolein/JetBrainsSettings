@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="eap" type="Native" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
       <mapping pattern="testad" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
