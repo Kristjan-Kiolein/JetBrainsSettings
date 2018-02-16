@@ -12,6 +12,7 @@
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
