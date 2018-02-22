@@ -3,7 +3,7 @@
     <EXCLUDED_PACKAGE NAME="java.security.KeyFactory" />
     <EXCLUDED_PACKAGE NAME="laohaldus.repository.entity.CustomerOrderEntity.Status" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
+  <component name="DaemonCodeAnalyzerSettings" profile="intellij-java-google-style">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
 </application>
