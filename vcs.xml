@@ -42,6 +42,14 @@
           <option name="url" value="http://git.telema.com" />
           <option name="userName" value="kristjan.kiolein@aktors.ee" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.telema.com:telema-web/telema-earve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.telema.com/telema-web/telema-earve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Kristjan\git\telema" />
