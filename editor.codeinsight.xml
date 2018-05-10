@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
     <EXCLUDED_PACKAGE NAME="java.security.KeyFactory" />
     <EXCLUDED_PACKAGE NAME="laohaldus.repository.entity.CustomerOrderEntity.Status" />
   </component>
