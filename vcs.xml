@@ -34,8 +34,43 @@
           <option name="url" value="git@git.mindware.ee:root/ESTATEXTUI.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.telema.com/telema-web/xroad-proxy" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.telema.com" />
+          <option name="userName" value="kristjan.kiolein@aktors.ee" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.telema.com:telema-web/telema-earve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.telema.com/telema-web/telema-earve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Juri.Ord@gitlab.rmv/sa_estat/sa_estat_mod.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.rmv/sa_estat/sa_adf_mod" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.rmv" />
+          <option name="userName" value="juri.ord@mindware.ee " />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.rmv/sa_estat/sa_estat_mod" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Kristjan\git\ESTAT" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="MIGRATED" value="true" />
   </component>
 </application>
