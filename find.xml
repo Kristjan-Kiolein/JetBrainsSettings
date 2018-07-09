@@ -18,6 +18,7 @@
       <mask>*</mask>
       <mask>*jsp</mask>
       <mask>*java</mask>
+      <mask>*js</mask>
     </recentFileMasks>
   </component>
 </application>
