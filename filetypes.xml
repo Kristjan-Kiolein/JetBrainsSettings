@@ -5,12 +5,13 @@
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="kutseeksam" type="HTML" />
       <mapping ext="eap" type="Native" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="t" type="PLAIN_TEXT" />
-      <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern="testad" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="kutseeksam1" type="PLAIN_TEXT" />
+      <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="fzz" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
