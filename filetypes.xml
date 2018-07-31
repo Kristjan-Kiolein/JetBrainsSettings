@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
+      <mapping pattern=".html" type="HTML" />
       <mapping pattern="kutseeksam" type="HTML" />
       <mapping ext="eap" type="Native" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
