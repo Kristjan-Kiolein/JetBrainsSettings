@@ -19,6 +19,7 @@
       <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="fzz" type="PLAIN_TEXT" />
+      <mapping ext="js_browserid=other&amp;minifiertype=js&amp;t=1529430588000" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
