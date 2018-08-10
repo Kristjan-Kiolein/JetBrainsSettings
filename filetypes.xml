@@ -11,6 +11,7 @@
       <mapping pattern="kutsetegevuse-standardid" type="HTML" />
       <mapping pattern="kutseeksam" type="HTML" />
       <mapping pattern="rahvusvaheline-raamistik" type="HTML" />
+      <mapping ext="1" type="HTML" />
       <mapping ext="eap" type="Native" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
