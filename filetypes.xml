@@ -11,6 +11,7 @@
       <mapping pattern="kutsetegevuse-standardid" type="HTML" />
       <mapping pattern="kutseeksam" type="HTML" />
       <mapping pattern="rahvusvaheline-raamistik" type="HTML" />
+      <mapping ext="1" type="HTML" />
       <mapping ext="eap" type="Native" />
       <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
@@ -19,6 +20,7 @@
       <mapping pattern="kutseeksam1" type="PLAIN_TEXT" />
       <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="href+'_p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_82_struts_action=%2flanguage%2fview&amp;languageid=en_us" type="PLAIN_TEXT" />
       <mapping ext="fzz" type="PLAIN_TEXT" />
       <mapping ext="js_browserid=other&amp;minifiertype=js&amp;t=1529430588000" type="PLAIN_TEXT" />
       <mapping ext="der" type="PLAIN_TEXT" />
