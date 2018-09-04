@@ -4,11 +4,11 @@
       <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
       <mapping pattern="gitignore_global.txt" type="Git file" />
       <mapping pattern="isa-200" type="HTML" />
-      <mapping pattern=".html" type="HTML" />
       <mapping pattern="index" type="HTML" />
       <mapping pattern="auditeerimise-standardid" type="HTML" />
       <mapping pattern="isa-500_p_p_id=54_INSTANCE_k5sO&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;_54_INSTANCE_k5sO_struts_action=%2Fwiki_display%2Fview&amp;_54_INSTANCE_k5sO_nodeName=ISA+D&amp;_54_INSTANCE_k5sO_title=Esileht" type="HTML" />
       <mapping pattern="kutsetegevuse-standardid" type="HTML" />
+      <mapping pattern=".html" type="HTML" />
       <mapping pattern="kutseeksam" type="HTML" />
       <mapping pattern="rahvusvaheline-raamistik" type="HTML" />
       <mapping ext="1" type="HTML" />
@@ -27,6 +27,7 @@
       <mapping ext="obj" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
       <mapping ext="spv" type="PLAIN_TEXT" />
+      <mapping ext="akt" type="XML" />
     </extensionMap>
   </component>
 </application>
