@@ -1,34 +1,35 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="gitignore_global.txt" type="Git file" />
-      <mapping pattern="isa-200" type="HTML" />
-      <mapping pattern=".html" type="HTML" />
-      <mapping pattern="index" type="HTML" />
-      <mapping pattern="auditeerimise-standardid" type="HTML" />
-      <mapping pattern="isa-500_p_p_id=54_INSTANCE_k5sO&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;_54_INSTANCE_k5sO_struts_action=%2Fwiki_display%2Fview&amp;_54_INSTANCE_k5sO_nodeName=ISA+D&amp;_54_INSTANCE_k5sO_title=Esileht" type="HTML" />
-      <mapping pattern="kutsetegevuse-standardid" type="HTML" />
-      <mapping pattern="kutseeksam" type="HTML" />
       <mapping pattern="rahvusvaheline-raamistik" type="HTML" />
+      <mapping pattern="isa-200" type="HTML" />
+      <mapping pattern="kutseeksam" type="HTML" />
+      <mapping pattern="isa-500_p_p_id=54_INSTANCE_k5sO&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-2&amp;p_p_col_count=1&amp;_54_INSTANCE_k5sO_struts_action=%2Fwiki_display%2Fview&amp;_54_INSTANCE_k5sO_nodeName=ISA+D&amp;_54_INSTANCE_k5sO_title=Esileht" type="HTML" />
+      <mapping pattern="index" type="HTML" />
+      <mapping pattern=".html" type="HTML" />
+      <mapping pattern="auditeerimise-standardid" type="HTML" />
+      <mapping pattern="kutsetegevuse-standardid" type="HTML" />
       <mapping ext="1" type="HTML" />
       <mapping ext="eap" type="Native" />
-      <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
-      <mapping pattern="asd" type="PLAIN_TEXT" />
-      <mapping pattern="testad" type="PLAIN_TEXT" />
-      <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="kutseeksam1" type="PLAIN_TEXT" />
-      <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="href+'_p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_82_struts_action=%2flanguage%2fview&amp;languageid=en_us" type="PLAIN_TEXT" />
-      <mapping ext="fzz" type="PLAIN_TEXT" />
-      <mapping ext="py3" type="PLAIN_TEXT" />
-      <mapping ext="obj" type="PLAIN_TEXT" />
-      <mapping ext="der" type="PLAIN_TEXT" />
+      <mapping pattern="t" type="PLAIN_TEXT" />
+      <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
+      <mapping pattern="devu_and_an_array_input" type="PLAIN_TEXT" />
+      <mapping pattern="testad" type="PLAIN_TEXT" />
       <mapping ext="pickle" type="PLAIN_TEXT" />
+      <mapping ext="ac" type="PLAIN_TEXT" />
+      <mapping ext="fzz" type="PLAIN_TEXT" />
+      <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="py3" type="PLAIN_TEXT" />
       <mapping ext="spv" type="PLAIN_TEXT" />
       <mapping ext="js_browserid=other&amp;minifiertype=js&amp;t=1529430588000" type="PLAIN_TEXT" />
+      <mapping ext="href+'_p_p_id=82&amp;p_p_lifecycle=1&amp;p_p_state=normal&amp;p_p_mode=view&amp;_82_struts_action=%2flanguage%2fview&amp;languageid=en_us" type="PLAIN_TEXT" />
+      <mapping ext="der" type="PLAIN_TEXT" />
       <mapping ext="akt" type="XML" />
       <mapping pattern="V004 - customer and order table" type="AndroidDataBinding" />
+      <mapping pattern="gitignore_global.txt" type="Git file" />
     </extensionMap>
   </component>
 </application>
