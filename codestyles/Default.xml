@@ -30,5 +30,6 @@
   </Objective-C-extensions>
   <codeStyleSettings language="Python">
     <option name="RIGHT_MARGIN" value="240" />
+    <option name="SOFT_MARGINS" value="80,120" />
   </codeStyleSettings>
 </code_scheme>
