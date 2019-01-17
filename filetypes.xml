@@ -13,6 +13,7 @@
       <mapping ext="eap" type="Native" />
       <mapping pattern="kutseeksam1" type="PLAIN_TEXT" />
       <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="vulkan_game" type="PLAIN_TEXT" />
