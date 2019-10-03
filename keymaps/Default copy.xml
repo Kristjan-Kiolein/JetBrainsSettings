@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
@@ -15,9 +19,6 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="shift f10" />
     <keyboard-shortcut first-keystroke="f5" />
-  </action>
-  <action id="Runner.CloseView">
-    <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
 </keymap>
